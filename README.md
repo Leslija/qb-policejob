@@ -157,3 +157,7 @@ Police Job for QB-Core Framework
         }
     },
 ```
+
+# Credit
+* [qb-policejob](https://github.com/qbcore-framework/qb-policejob)
+* [fd-spikestrips](https://github.com/ForostyDevelopment/fd-spikestrips)
