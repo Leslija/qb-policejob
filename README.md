@@ -4,6 +4,7 @@ Police Job for QB-Core Framework
 # Dependencies
 - [ps-mdt](https://github.com/Project-Sloth/ps-mdt)
 - [ps-dispatch](https://github.com/Project-Sloth/ps-dispatch)
+- [ps-ui](https://github.com/Project-Sloth/ps-ui)
 
 # Add this in qb-core/shared/items.lua
 ```lua
